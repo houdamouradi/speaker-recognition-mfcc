@@ -8,7 +8,7 @@ A multivariate statistical study on speaker identification from audio recordings
 
 ## Project overview
 
-Working from audio recordings of 10 American speakers (5 men, 5 women), this project explores:
+Working from audio recordings (500) of 10 American speakers (5 men, 5 women), this project explores:
 
 1. **MFCC feature extraction** from raw audio (via `librosa`)
 2. **PCA & t-SNE** for visualization
